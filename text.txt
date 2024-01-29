@@ -1,1 +1,2 @@
 demo.ps1  text.txt
+hi
